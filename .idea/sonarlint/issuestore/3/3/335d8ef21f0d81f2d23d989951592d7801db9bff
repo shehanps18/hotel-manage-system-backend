@@ -1,0 +1,13 @@
+
+v	java:S116"URename this field "NoOfAdults" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®µÔøøÿÿÿÿ8’¶àÜÜ1
+t	java:S116"XRename this field "NoOfChildrens" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‚Í8–¶àÜÜ1
+S
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙE8¯¾ Úİ1
+\
+java:S1128":Remove this unused import 'jakarta.persistence.FetchType'.(ŠÂ¤Šûÿÿÿÿ8¾¾ Úİ1
+X
+java:S1128";Remove this unused import 'jakarta.persistence.JoinColumn'.(İçÆ•8¿¾ Úİ1
+\
+java:S1128":Remove this unused import 'jakarta.persistence.ManyToOne'.(áîÖãùÿÿÿÿ8À¾ Úİ1
+a
+java:S1128"?Remove this unused import 'org.codeworkhotelmanage.model.Room'.(®áÇıÿÿÿÿ8Á¾ Úİ1

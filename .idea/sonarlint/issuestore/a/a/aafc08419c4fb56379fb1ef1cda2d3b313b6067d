@@ -1,0 +1,5 @@
+
+v	java:S116""URename this field "NoOfAdults" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®µÔøøÿÿÿÿ8¦´ŸÓÜ1
+t	java:S116%"XRename this field "NoOfChildrens" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‚Í8§´ŸÓÜ1
+d
+java:S1128	"BRemove this unused import 'javax.annotation.processing.Generated'.(ÒİÊøÿÿÿÿ8¥¬¯ìÜ1
